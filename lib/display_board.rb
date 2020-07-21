@@ -6,7 +6,7 @@ def display_board(board)
   board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
   
   
-puts"#{board[0]}|#{board[1]}|#{board[3]}"
+puts "#{board[0]}|#{board[1]}|#{board[3]}"
 -------------
 puts "#{board[7]}|#{board[8]}|#{board9]}"
 -------------
