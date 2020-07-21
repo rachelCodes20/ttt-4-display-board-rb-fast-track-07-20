@@ -9,7 +9,7 @@ def display_board(board)
 puts "#{board[0]}|#{board[1]}|#{board[3]}"
 puts "-------------"
 puts "#{board[7]}|#{board[8]}|#{board9]}"
-"-------------"
+puts "-------------"
 puts "#{board[0]}|#{board[1]}|#{board[1]}"
 
  
