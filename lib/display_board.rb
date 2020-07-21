@@ -4,11 +4,11 @@
 def display_board(board)
   board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
   puts
-  "#{board[0]} |#{board[1]}|#{board[3]}
+  "#{board[0]}|#{board[1]}|#{board[3]}
 -------------
-#{board[7]}|#{board[8]}|#{board[9]}"
+#{board[7]}|#{board[8]}|#{board9]}"
 -------------
-
+"#{board[0]}|#{board[1]}|#{#{board[1]
 
  
 end display_board(board)
