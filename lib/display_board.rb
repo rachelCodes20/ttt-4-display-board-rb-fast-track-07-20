@@ -13,4 +13,5 @@ def display_board(board)
 "#{board[0]}|#{board[1]}|#{board[1]}"
 
  
-end display_board(board)
+end 
+display_board(board)
