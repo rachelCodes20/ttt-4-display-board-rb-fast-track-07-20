@@ -10,7 +10,7 @@ puts"#{board[0]}|#{board[1]}|#{board[3]}"
 -------------
 puts "#{board[7]}|#{board[8]}|#{board9]}"
 -------------
-"#{board[0]}|#{board[1]}|#{board[1]}"
+puts "#{board[0]}|#{board[1]}|#{board[1]}"
 
  
 end 
